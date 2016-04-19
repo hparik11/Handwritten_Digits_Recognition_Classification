@@ -4,13 +4,13 @@
 # Handwritten Digit Recognition using OpenCV, sklearn and Python. 
 
 
-#Note: First put all Code files, Data Files and Image Files at one place. 
+Note: First put all Code files, Data Files and Image Files at one place. 
 
 
 If you stuck anywhere, please do python helper.py -h or python helper.py --help . All the informations and instructions are being displayed once you run that.  
 
 
-#Dependencies
+# Dependencies
 
 1. cv2
 2. sklearn
@@ -23,7 +23,6 @@ If you stuck anywhere, please do python helper.py -h or python helper.py --help 
      http://yann.lecun.com/exdb/mnist/
 2. Letter-Recognition
      https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
-
 
 Instructions:
  
