@@ -4,7 +4,13 @@
 # Handwritten Digit Recognition using OpenCV, sklearn and Python. 
 
 
-#Dependencies
+Note: First put all Code files, Data Files and Image Files at one place. 
+
+
+If you stuck anywhere, please do python helper.py -h or python helper.py --help . All the informations and instructions are being displayed once you run that.  
+
+
+# Dependencies
 
 1. cv2
 2. sklearn
@@ -17,20 +23,6 @@
      http://yann.lecun.com/exdb/mnist/
 2. Letter-Recognition
      https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
-
-
-
-
-
-
-First put all Code files, Data Files and Image Files at one place. 
-
-Dependencies:  
-
-1. sudo pip install termcolor
-2. pip install scikit-learn
-3. Download OpenCV2 . Run bash opencv.sh to your machine.
-4. skimage
 
 Instructions:
  
