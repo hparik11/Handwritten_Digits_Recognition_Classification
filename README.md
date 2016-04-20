@@ -3,7 +3,7 @@
 # Handwritten Digit and Letter: Recognition and Classification.
 
 
-**Note: First put all Code files, Data Files and Image Files at one place. **
+*Note: First put all Code files, Data Files and Image Files at one place.*
 
 
 If you stuck anywhere, please do __python helper.py -h__ or **python helper.py --help** . 
