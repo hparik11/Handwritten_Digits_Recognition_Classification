@@ -6,14 +6,16 @@
 **Note: First put all Code files, Data Files and Image Files at one place. **
 
 
-If you stuck anywhere, please do __python helper.py -h__ or **python helper.py --help** . All the informations and instructions are being displayed once you run that.  
+If you stuck anywhere, please do __python helper.py -h__ or **python helper.py --help** . 
+
+All the informations and instructions are being displayed once you run that.  
 
 
 ### Dependencies
 
 1. sudo pip install termcolor
 2. pip install scikit-learn
-3. Download OpenCV2 . Run bash [opencv.sh](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/data/opencv.sh) to your machine.
+3. Download OpenCV2 . Run bash [opencv.sh](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/data/opencv.sh) on your machine to download and setup opencv2.
 4. skimage
 
 ### Datasets
