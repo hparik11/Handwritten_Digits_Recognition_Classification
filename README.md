@@ -6,7 +6,7 @@
 **Note: First put all Code files, Data Files and Image Files at one place. **
 
 
-If you stuck anywhere, please do __python helper.py -h__ or __python helper.py --help__ . All the informations and instructions are being displayed once you run that.  
+If you stuck anywhere, please do *python helper.py -h* or *python helper.py --help* . All the informations and instructions are being displayed once you run that.  
 
 
 ### Dependencies
@@ -27,14 +27,15 @@ If you stuck anywhere, please do __python helper.py -h__ or __python helper.py -
 	
 	1. Open ipython notebook from Command Line.
 	2. Run K-Nearest_Neighbors.ipynb
-2). Then to run KNN_PCA.ipynb file: 
+	
+2). Then to run [KNN_PCA.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/KNN_PCA.ipynb) file: 
 	
 	1. Open ipython notebook from Command Line.
-	2. Run  [KNN_PCA.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/KNN_PCA.ipynb)
+	2. Run KNN_PCA.ipynb
 	
-3). Then to run randomforest.ipynb file: 
+3). Then to run [randomforest.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/randomforest.ipynb) file: 
 	
 	put DecisionTreeClassifier.py and functions.py files at this location. 
 
 	1. Open ipython notebook from Command Line.
-	2. Run [randomforest.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/randomforest.ipynb)
+	2. Run randomforest.ipynb
