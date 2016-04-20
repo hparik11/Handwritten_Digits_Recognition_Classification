@@ -1,44 +1,41 @@
-# Digit and Letter: Recognition and Classification.
+# CS 584: Machine Learning - Illinois Institute of Technology
+
+# Handwritten Digit and Letter: Recognition and Classification.
 
 
-# Handwritten Digit Recognition using OpenCV, sklearn and Python. 
+**Note: First put all Code files, Data Files and Image Files at one place. **
 
 
-Note: First put all Code files, Data Files and Image Files at one place. 
+If you stuck anywhere, please do _python helper.py -h_** or _python helper.py --help_** . All the informations and instructions are being displayed once you run that.  
 
 
-If you stuck anywhere, please do python helper.py -h or python helper.py --help . All the informations and instructions are being displayed once you run that.  
-
-
-# Dependencies
+### Dependencies
 
 1. cv2
 2. sklearn
 3. numpy
 4. collections
 
-# Datasets
+### Datasets
 
-1. MNIST 
-     http://yann.lecun.com/exdb/mnist/
-2. Letter-Recognition
-     https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
+1. [MNIST](http://yann.lecun.com/exdb/mnist/)
+2. [Letter-Recognition](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
 
-# Instructions:
+### Instructions:
  
 1). First to Run the K-Nearest_Neighbors.ipynb file:-  
 	
 	1. Open ipython notebook from Command Line.
-	2. Run  K-Nearest_Neighbors.ipynb.
+	2. Run [K-Nearest_Neighbors.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/K-Nearest_Neighbors.ipynb)
 
 2). Then to run KNN_PCA.ipynb file: 
 	
 	1. Open ipython notebook from Command Line.
-	2. Run  KNN_PCA.ipynb
+	2. Run  [KNN_PCA.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/KNN_PCA.ipynb)
 	
 3). Then to run randomforest.ipynb file: 
 	
 	put DecisionTreeClassifier.py and functions.py files at this location. 
 
 	1. Open ipython notebook from Command Line.
-	2. Run randomforest.ipynb
+	2. Run [randomforest.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/randomforest.ipynb)
