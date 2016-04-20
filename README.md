@@ -6,7 +6,7 @@
 **Note: First put all Code files, Data Files and Image Files at one place. **
 
 
-If you stuck anywhere, please do *python helper.py -h* or *python helper.py --help* . All the informations and instructions are being displayed once you run that.  
+If you stuck anywhere, please do _python helper.py -h_** or *python helper.py --help* . All the informations and instructions are being displayed once you run that.  
 
 
 ### Dependencies
