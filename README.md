@@ -24,7 +24,7 @@ If you stuck anywhere, please do python helper.py -h or python helper.py --help 
 2. Letter-Recognition
      https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
 
-Instructions:
+# Instructions:
  
 1). First to Run the K-Nearest_Neighbors.ipynb file:-  
 	
