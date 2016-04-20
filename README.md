@@ -11,10 +11,10 @@ If you stuck anywhere, please do __python helper.py -h__ or __python helper.py -
 
 ### Dependencies
 
-1. cv2
-2. sklearn
-3. numpy
-4. collections
+1. sudo pip install termcolor
+2. pip install scikit-learn
+3. Download OpenCV2 . Run bash [opencv.sh](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/data/opencv.sh) to your machine.
+4. skimage
 
 ### Datasets
 
@@ -23,11 +23,10 @@ If you stuck anywhere, please do __python helper.py -h__ or __python helper.py -
 
 ### Instructions:
  
-1). First to Run the K-Nearest_Neighbors.ipynb file:-  
+1). First to Run the [K-Nearest_Neighbors.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/K-Nearest_Neighbors.ipynb) file:-  
 	
-	Open ipython notebook from Command Line.
-	Run [K-Nearest_Neighbors.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/K-Nearest_Neighbors.ipynb)
-
+	1. Open ipython notebook from Command Line.
+	2. Run K-Nearest_Neighbors.ipynb
 2). Then to run KNN_PCA.ipynb file: 
 	
 	1. Open ipython notebook from Command Line.
