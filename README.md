@@ -25,17 +25,17 @@ All the informations and instructions are being displayed once you run that.
 
 ### Instructions:
  
-1). First to Run the [K-Nearest_Neighbors.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/K-Nearest_Neighbors.ipynb) file:-  
+1). First to Run the [K-Nearest_Neighbors](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/K-Nearest_Neighbors.ipynb) file:-  
 	
 	1. Open ipython notebook from Command Line.
 	2. Run K-Nearest_Neighbors.ipynb
 	
-2). Then to run [KNN_PCA.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/KNN_PCA.ipynb) file: 
+2). Then to run [KNN with PCA](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/KNN_PCA.ipynb) file: 
 	
 	1. Open ipython notebook from Command Line.
 	2. Run KNN_PCA.ipynb
 	
-3). Then to run [randomforest.ipynb](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/randomforest.ipynb) file: 
+3). Then to run [Random Forest](https://github.com/hparik11/HandWritten_Digit_Classification/blob/master/code/randomforest.ipynb) file: 
 	
 	put DecisionTreeClassifier.py and functions.py files at this location. 
 
