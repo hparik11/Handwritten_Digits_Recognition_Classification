@@ -44,18 +44,22 @@ All the informations and instructions are being displayed once you run that.
 
 ### Results:
 
-##### Digit Input Image
+#### Digit Input Image
 
 ![Input Image](https://github.com/hparik11/Handwritten_Digits_Recognition_Classification/blob/master/Data%20%26%20Images/harsh.png)
 
 
-##### Digit Output Image
+#### Digit Output Image
 
 ![Output Image](https://github.com/hparik11/Handwritten_Digits_Recognition_Classification/blob/master/Data%20%26%20Images/Resulting%20Image_harsh1.png)
 
 
-##### Accuracy of K-NN with PCA by varying Number of Feature Values
+#### Accuracy of K-NN with PCA Algorithm by varying the Number of Features
 
 ![KNN_PCA](https://github.com/hparik11/Handwritten_Digits_Recognition_Classification/blob/master/Data%20%26%20Images/KNN_Accuracy.png)
 
+
+#### Accuracy of Random Forest by varying Number of Features
+
+![Random_Forest](https://github.com/hparik11/Handwritten_Digits_Recognition_Classification/blob/master/Data%20%26%20Images/Random_Forest_Accuracy.png)
 
