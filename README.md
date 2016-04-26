@@ -41,3 +41,9 @@ All the informations and instructions are being displayed once you run that.
 
 	1. Open ipython notebook from Command Line.
 	2. Run randomforest.ipynb.
+
+### Results:
+
+![Input Image](https://github.com/hparik11/Handwritten_Digits_Recognition_Classification/blob/master/Data%20%26%20Images/harsh.png)
+
+
